@@ -1,5 +1,6 @@
 const express = require('express');
 const router = express.Router();
+const bancodados = require('../conexao');
 
 // Rota para obter todos os drones
 router.get('/', (req, res) => {
