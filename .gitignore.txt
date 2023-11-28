@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+
+# Arquivos de configuração
+.env
+
+# Logs e saídas de debug
+logs/
+*.log
+npm-debug.log*
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Arquivos de build
+build/
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
