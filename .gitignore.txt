@@ -19,3 +19,17 @@ build/
 # Arquivos de sistema operacional
 .DS_Store
 Thumbs.db
+
+module.exports = [
+    { nome: 'E99 Pro Drone', modelo: '080641707248 E99', imagem: 'https://m.media-amazon.com/images/I/51EzcV3oMbL._AC_UF894,1000_QL80_.jpg'},
+    { nome: 'Phantom 4 Pro', modelo: 'DJIPhantom4Pro', imagem: 'https://mr1drones.com.br/352-large_default/drone-dji-phantom-4-pro-plus.jpg'},
+    { nome: 'Mavic Mini', modelo: 'DJIMavicMini', imagem: 'https://http2.mlstatic.com/D_NQ_NP_617769-MLA47977563288_102021-O.webp'},
+    { nome: 'Drone Bird', modelo: 'ES255', imagem:'https://m.media-amazon.com/images/I/51755K-D68L._AC_UF894,1000_QL80_.jpg' },
+    { nome: 'Qmint Beast', modelo: 'SG907', imagem: 'https://m.media-amazon.com/images/I/41hnj0xHasL._AC_UF894,1000_QL80_.jpg'},
+    { nome: 'Tello Boost', modelo: 'DJI020', imagem: 'https://static.lojadji.com.br/img/31771/norm_1_dji-drone-tello-boost-combo.jpg'},
+    { nome: 'L900 Pro', modelo: 'LYZRC', imagem: 'https://http2.mlstatic.com/D_NQ_NP_921247-MLA48120594839_112021-O.webp'},
+    { nome: 'KF102', modelo: ' KF102MAX', imagem: 'https://m.media-amazon.com/images/I/41VZnTmcsqL._AC_UF894,1000_QL80_.jpg'},
+    { nome: 'SJRC F11', modelo: 'SJRC F11', imagem: 'https://m.media-amazon.com/images/I/616C5n-8PHL.jpg'},
+    { nome: 'Qmint', modelo: 'SG906', imagem: 'https://m.media-amazon.com/images/I/41TnRbDMA6L._AC_.jpg'}
+   
+  ];
